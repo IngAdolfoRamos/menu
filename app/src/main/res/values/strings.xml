@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellidos</string>
+    <string name="save">Guardar</string>
+    <string name="find">Buscar</string>
+    <string name="see_all">Ver todos</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="register">Registrarme</string>
+    <string name="login">Acceder</string>
+    <string name="email">Email</string>
+    <string name="cancel">Cancelar</string>
+    <string name="accept">Aceptar</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="home">Home</string>
+    <string name="end_session">Cerrar sesión</string>
+    <string name="log_out">Salir</string>
+    <string name="phone">Telefono</string>
+</resources>
